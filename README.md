@@ -32,9 +32,6 @@
 9. [Use Cases & Applications](#-use-cases--applications)
 10. [Data Schema](#-data-schema)
 11. [Troubleshooting](#-troubleshooting)
-12. [Contributing](#-contributing)
-13. [Contact & Support](#-contact--support)
-
 ---
 
 ## 📊 Project Overview
